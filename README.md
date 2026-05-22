@@ -1,4 +1,4 @@
-Dashboard Bundesliga Analytics.png
+visuals/Dashboard Bundesliga Analytics.png
 # ⚽ Football Data Engineering with PySpark & Databricks
 
 ## 📌 Project Overview
