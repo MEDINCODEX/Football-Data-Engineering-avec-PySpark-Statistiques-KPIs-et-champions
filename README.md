@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MEDINCODEX/Football-Data-Engineering-avec-PySpark-Statistiques-KPIs-et-champions/blob/main/visuals/Dashboard%20Bundesliga%20Analytics.png" />
+  <img src="Dashboard%20Bundesliga%20Analytics.png" />
 </p># ⚽ Football Data Engineering with PySpark & Databricks
 
 ## 📌 Project Overview
