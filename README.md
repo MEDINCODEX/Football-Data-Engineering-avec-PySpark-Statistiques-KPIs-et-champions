@@ -1,4 +1,4 @@
-<img src='visuals/Dashboard Bundesliga Analytics.png' alt='dashboard'>
+<img src='Dashboard Bundesliga Analytics.png' alt='dashboard'>
 # ⚽ Football Data Engineering with PySpark & Databricks
 
 ## 📌 Project Overview
