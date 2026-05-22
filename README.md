@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Dashboard%20Bundesliga%20Analytics.png" />
-</p># ⚽ Football Data Engineering with PySpark & Databricks
+# ⚽ Football Data Engineering with PySpark & Databricks
 
 ## 📌 Project Overview
 
