@@ -6,7 +6,7 @@ This project is an end-to-end Big Data Engineering pipeline built with **PySpark
 
 The pipeline processes football match datasets, calculates advanced KPIs for each team, ranks teams season by season, identifies champions, and stores optimized analytical datasets in partitioned Parquet format for scalable analytics and Business Intelligence usage. 
 
-By migrating the workflow from a local/Colab environment to an enterprise-grade **Databricks Cluster**, this project simulates a real-world, cloud-native Data Engineering workflow used in modern analytics platforms.
+By migrating the workflow from a local/Colab environment to an enterprise-grade **Databricks Cluster**, this project simulates a real-world, cloud-native Data Engineering workflow used in modern analytics platforms. 
 
 ---
 
