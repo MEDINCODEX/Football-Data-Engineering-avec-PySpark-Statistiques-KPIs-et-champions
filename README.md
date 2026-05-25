@@ -18,7 +18,7 @@ By migrating the workflow from a local/Colab environment to an enterprise-grade 
 - Calculate advanced KPIs per team and season.
 - Rank teams using Window Functions.
 - Identify champions for each season.
-- Store optimized datasets in Parquet format via DBFS (Databricks File System) / Local Workspace.
+- Store optimized datasets in Parquet format via DBFS (Databricks File System) / Local Workspace. 
 - Create visualizations for football performance analysis.
 - Integrate processed data with Power BI.
 
